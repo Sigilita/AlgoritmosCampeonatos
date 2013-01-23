@@ -73,6 +73,7 @@
     <Compile Include="AlgoritmoCampeonato.vb" />
     <Compile Include="AlgoritmoLiga.vb" />
     <Compile Include="AlgoritmoLigaImpar.vb" />
+    <Compile Include="EquipoAuxiliar.vb" />
     <Compile Include="Form1.vb">
       <SubType>Form</SubType>
     </Compile>

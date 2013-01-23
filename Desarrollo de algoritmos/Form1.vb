@@ -14,13 +14,13 @@
         lista.Add("G")
         lista.Add("H")
         lista.Add("I")
-        'lista.Add("J")
-        'Dim l1 As AlgoritmoLigaImpar = New AlgoritmoLigaImpar(lista)
-        'l1.Ordenacion()
-        'l1.Liga()
-        Dim l2 As AlgoritmoLiga = New AlgoritmoLiga(lista)
-        l2.Ordenacion()
-        l2.Liga()
+        lista.Add("J")
+        'Dim l2 As AlgoritmoLiga = New AlgoritmoLiga(lista)
+        'l2.Ordenacion()
+        'l2.Liga()
+        Dim l1 As AlgoritmoCampeonato = New AlgoritmoCampeonato(lista)
+        l1.calculoNumeroRondas(12)
+        l1.primeraAsignacion()
 
     End Sub
 
