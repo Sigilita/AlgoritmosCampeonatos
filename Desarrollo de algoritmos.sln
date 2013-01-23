@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Desarrollo de algoritmos", "Desarrollo de algoritmos\Desarrollo de algoritmos.vbproj", "{B6679428-061A-4BD3-B13B-753457E9F744}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6679428-061A-4BD3-B13B-753457E9F744}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6679428-061A-4BD3-B13B-753457E9F744}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6679428-061A-4BD3-B13B-753457E9F744}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6679428-061A-4BD3-B13B-753457E9F744}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
